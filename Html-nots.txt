@@ -1,0 +1,89 @@
+
+Beginners Html Wepsite
+no css
+5,10 mins? no chance 
+Html 5
+
+Html hyper text markup language
+
+not a programming language 
+
+makerup language for weppage / document 
+=
+no logic,no porgram , just skeleton 
+
+building block = every wepstit in the world 
+
+
+
+
+what  we need to start 
+
+browser (google chrom , firefox, opera)
+
+tex editers sublimr , notepad, etc..
+
+
+creating Html?
+
+Server ?
+
+
+
+
+
+Internet ?
+
+Domain ?
+
+Simpel;
+
+.html
+index.htmal
+
+
+eg; www.fb.com
+www.fb.com/adout 
+ww.fb.com /id 
+
+
+lets create 
+<>
+<> </>
+
+
+
+<!DUCTYPE html>
+
+<html>
+	
+	<head>
+		<title>
+			<title>
+
+	<body>
+		
+		<p>..............</p>
+		<h1>.............</h1>
+
+	</body>
+
+<html>
+
+<!DUCTYPE html> for html 5 verstion
+
+
+
+lnline : <span>.<img>,<a>
+
+blok level element : <div>, <h1> to <h6>, <from>
+
+
+
+		
+
+
+
+
+ 
+
